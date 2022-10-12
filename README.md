@@ -1,5 +1,5 @@
-# TurbulenceDataset
-Turbulence dataset with Images and Cn2 values
+# Turbulence Strength Dataset (TSD)
+Turbulence strength dataset containing Images and Cn2 values
 
 We have used two datasets to train/test the model(the July dataset and October Dataset). Each dataset contains around 30k images. All those images were taken with the Nikon P100 DSLR camera at 60fps at a distance of 750m~1500m from the camera. We used a scintillometer to measure the turbulence strength.
 
